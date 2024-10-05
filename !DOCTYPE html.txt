@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webcommexico</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        header { background: #007BFF; color: white; padding: 10px 20px; text-align: center; }
+        nav { margin: 10px 0; }
+        nav a { margin: 0 15px; color: white; text-decoration: none; }
+        section { padding: 20px; }
+        footer { text-align: center; padding: 10px; background: #007BFF; color: white; position: relative; bottom: 0; width: 100%; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Webcommexico</h1>
+        <nav>
+            <a href="#inicio">Inicio</a>
+            <a href="#servicios">Servicios</a>
+            <a href="#proyectos">Proyectos</a>
+            <a href="#blog">Blog</a>
+            <a href="#contacto">Contacto</a>
+        </nav>
+    </header>
+    <section id="inicio">
+        <h2>Bienvenido a Webcommexico</h2>
+        <p>Tu fuente de soluciones web y comunicación digital.</p>
+    </section>
+    <section id="servicios">
+        <h2>Servicios</h2>
+        <p>Descripción de los servicios que ofreces.</p>
+    </section>
+    <section id="proyectos">
+        <h2>Proyectos</h2>
+        <p>Proyectos destacados.</p>
+    </section>
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Artículos recientes y publicaciones.</p>
+    </section>
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Información de contacto.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Webcommexico. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
