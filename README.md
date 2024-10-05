@@ -1,9 +1,9 @@
 ## Hola Bienvenido a webcommexico
-  Webcommexico ofrece varios tipos de sitios web
-    -Informativos
-    -Ventas
-    -Entretenimiento
-  Entre otras cosas.
+Webcommexico ofrece varios tipos de sitios web
+-Informativos
+-Ventas
+-Entretenimiento
+Entre otras cosas.
 Para crear o editar tu pagina contacta al dueño dueño.
 WhatsApp: 771 111 4142             
 Los precios dependen de el pedido.
